@@ -16,7 +16,7 @@
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
         "filp/whoops": "2.14.5",
-        "fzaninotto/faker": "^1.4",
+        "fzaninotto/faker": "1.9.2",
         "mockery/mockery": "1.5.0",
         "nunomaduro/collision": "6.2.1",
         "phpunit/phpunit": "7.5.20"
