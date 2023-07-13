@@ -15,7 +15,7 @@
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "1.8.0",
-        "filp/whoops": "2.14.6",
+        "filp/whoops": "2.15.3",
         "fzaninotto/faker": "1.9.2",
         "mockery/mockery": "1.5.1",
         "nunomaduro/collision": "6.3.0",
